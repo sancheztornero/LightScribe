@@ -5,8 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1>LightScribe en Linux</h1>
-    <p>LightScribe es una tecnología que permite la impresión de etiquetas directamente en discos CD/DVD compatibles. A continuación, se encuentran los archivos de software LightScribe para Linux:</p>
+     <h1>LightScribe en Linux</h1>
+    <p>LightScribe es una innovadora tecnología que posibilita la impresión de etiquetas directamente en discos CD/DVD compatibles. A pesar de que HP cesó oficialmente el soporte de LightScribe en diciembre de 2013,​ la comunidad ha continuado manteniendo esta tecnología de manera independiente.</p>
+    <p>En un esfuerzo por preservar y compartir la utilidad de LightScribe, he recopilado y subido los archivos de instalación de LaCie y LightScribe a mi repositorio personal. Esta iniciativa permite a los usuarios acceder a estos recursos y disfrutar de las capacidades de LightScribe en sistemas Linux.</p>
     <h2>Archivos disponibles</h2>
     <pre>
 usuario@usuario:/media/usuario/LightScribe$ ls -l
